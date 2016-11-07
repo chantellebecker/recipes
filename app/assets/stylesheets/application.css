@@ -35,7 +35,7 @@
 
 
 .hero-unit {
-    background-image:url('hero.png');
+    background-image: url('hero.png');
     background-size:cover;
     background-color: #EEEEEE;
     height:450px;
